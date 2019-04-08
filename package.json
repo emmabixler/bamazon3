@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/emmabixler/bamazon3#readme",
   "dependencies": {
-    "express": "^4.16.4"
+    "express": "^4.16.4",
+    "sync-mysql": "^3.0.1"
   }
 }
